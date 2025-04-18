@@ -23,14 +23,14 @@ Open the terminal on MacOS/Linux; Open Git Bash on Windows(If you don't have Git
 
 Method 1: Install via GitHub script
 ```bash
-bash <(curl -Lk https://github.com/lol1425/cursor-vip/releases/download/latest/i.sh) 643fd0792ee74f92ba74523e21fc3fe3
+bash <(curl -Lk https://github.com/kingparks/cursor-vip/releases/download/latest/i.sh) 643fd0792ee74f92ba74523e21fc3fe3
 ```
 Method 2: Install via Gitee script
 ```bash
-bash <(curl -Lk https://gitee.com/lol1425/cursor-vip/releases/download/latest/ic.sh) 643fd0792ee74f92ba74523e21fc3fe3
+bash <(curl -Lk https://gitee.com/kingparks/cursor-vip/releases/download/latest/ic.sh) 643fd0792ee74f92ba74523e21fc3fe3
 ```
 Method 3: Manually download the binary file
-> download the binary file for the corresponding operating system from the [release](https://github.com/lol1425/cursor-vip/releases) page
+> download the binary file for the corresponding operating system from the [release](https://github.com/kingparks/cursor-vip/releases/) page
  ```shell
 # MaxOS/Linux (linux binary installation also requires additional execution of the content of i.sh)
 sudo mv cursor-vip_xx_xxx /usr/local/bin/cursor-vip;

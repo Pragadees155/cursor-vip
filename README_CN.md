@@ -27,7 +27,7 @@ bash <(curl -Lk https://gitee.com/kingparks/cursor-vip/releases/download/latest/
 bash <(curl -Lk https://github.com/kingparks/cursor-vip/releases/download/latest/i.sh) 643fd0792ee74f92ba74523e21fc3fe3
 ```
 方式3：手动下载二进制文件
-> 从 [release](https://github.com/kingparks/cursor-vip/releases) 页下载对应操作系统的二进制文件
+> 从 [release](https://github.com/kingparks/cursor-vip/releases/) 页下载对应操作系统的二进制文件
 ```shell
 # MaxOS/Linux (linux 二进制安装还需额外执行 i.sh 的内容)
 sudo mv cursor-vip_xx_xxx /usr/local/bin/cursor-vip;
@@ -35,6 +35,12 @@ chmod +x /usr/local/bin/cursor-vip;
 cursor-vip 643fd0792ee74f92ba74523e21fc3fe3;
 # Windows
 # 双击 cursor-vip_xx_xxx.exe
+```
+方式4：推广获取授权
+> 每成功推广2人付费，即可自动获得一年授权
+```bash
+bash <(curl -Lk https://github.com/kingparks/cursor-vip/releases/download/latest/i.sh) 643fd0792ee74f92ba74523e21fc3fe3
+专属推广链接：https://cursor.jeter.eu.org?p=643fd0792ee74f92ba74523e21fc3fe3
 ```
 
 启动 cursor-vip：
